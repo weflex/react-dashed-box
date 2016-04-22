@@ -6,7 +6,7 @@ const DEFAULT_BACKGROUND_COLOR = '#9b9b9b';
 /**
  * @class UIDashedBox
  */
-export default class extends React.Component {
+export default class UIDashedBox extends React.Component {
   static propTypes = {
     /**
      * @property {String} className - the class name of the container element

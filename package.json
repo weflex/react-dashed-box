@@ -1,6 +1,6 @@
 {
   "name": "react-dashed-box",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dashed Box Component written in React",
   "main": "lib/index.js",
   "scripts": {
